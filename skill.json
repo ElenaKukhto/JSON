@@ -1,0 +1,6 @@
+{
+"basic theory": [ "Types", "Methods", "Areas of testing" ],
+"documentations": [ "CheckList", "TestCase", "BugReport" ],
+"devtools": [ "GoogleChrome", "FireFox" ],
+"api testing": "Postman"
+}
